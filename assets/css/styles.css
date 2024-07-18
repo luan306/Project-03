@@ -572,21 +572,23 @@ a {
 .base .body-main {
     display: flex;
     justify-content: space-between;
-    padding: 100px 0 88px 0;
+    padding: 76px 0 88px 0;
 }
 .base .heading {
     color: #070707;
     font-size: 4.2rem;
     font-weight: 700;
+    line-height: 1.4;
 }
 .base .desc {
     margin-top: 18px;
     color: #767e7e;
     font-size: 1.8rem;
+    line-height: 1.4;
 }
 .base .btn-st {
     margin-right: 154px;
-    margin-top: -6px;
+    margin-top: 0px;
 }
 .footer {
     margin-top: 79px;
